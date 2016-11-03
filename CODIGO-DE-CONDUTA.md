@@ -10,6 +10,8 @@ Se um membro da comunidade se envolver em um comportamento abusivo, os organizad
 
 * Organizadores:
   * **Pablo Souza** - GitHub: [@rectius](https://github.com/rectius)
+* Mentores:  
+  * **Diego Lorena Delgado** - GitHub: [@rectius](https://github.com/diegolorenadelgado)
 * Links relacionados:
   * Site oficial: http://nodeschool.io/sorocaba
   * GitHub: https://github.com/nodeschool/sorocaba
