@@ -9,6 +9,6 @@ Inscreve-se no [Meetup](http://www.meetup.com/pt-BR/Sorocaba-Node-User-Group-SNU
 
 Tem alguma pergunta? [Abra uma issue](https://github.com/nodeschool/sorocaba/issues).
 
-Nota: Todos os envolvidos com a NodeSchool Sorocaba precisam serguir nosso [Código de Conduta](https://github.com/nodeschool/sorocaba/blob/gh-pages/CODIGO-DE-CONDUTA.md).
+Nota: Todos os envolvidos com a NodeSchool Sorocaba precisam seguir nosso [Código de Conduta](https://github.com/nodeschool/sorocaba/blob/gh-pages/CODIGO-DE-CONDUTA.md).
 
 O site está hospedado no [branch gh-pages](https://github.com/nodeschool/sorocaba/tree/gh-pages).
