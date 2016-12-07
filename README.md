@@ -5,7 +5,13 @@ nodeschool sorocaba :school:
 [![Slack](https://img.shields.io/badge/slack-%20%23nodeschool-orange.svg)](https://snug-lab.herokuapp.com)
 [![Facebook](https://img.shields.io/badge/facebook-group-blue.svg)](https://www.facebook.com/groups/1721467278177977/)
 
-Inscreve-se no [Meetup](http://www.meetup.com/pt-BR/Sorocaba-Node-User-Group-SNUG/) para ser notificado sobre eventos futuros.
+## Quando: Quarta-feira, 07 de Dezembro de 2016.
+
+## Onde: Space Sorocaba
+#### https://goo.gl/maps/cPemk7KZEXz
+
+## Inscrição:
+#### Inscreve-se no [Meetup](http://www.meetup.com/pt-BR/Sorocaba-Node-User-Group-SNUG/) para ser notificado sobre eventos futuros.
 
 Tem alguma pergunta? [Abra uma issue](https://github.com/nodeschool/sorocaba/issues).
 
